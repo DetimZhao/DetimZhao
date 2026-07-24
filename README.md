@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm [Detim](https://detimzhao.github.io/website/) 😁
 
-<!--
-**DetimZhao/DetimZhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer. Currently open to full-time roles.
 
-Here are some ideas to get you started:
+Recent ASU grad (BS Software Engineering). 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in **systems**, **AI/ML**, and **data engineering**.
+
+- 🏗️ Distributed systems, HPC infrastructure, gRPC microservices
+- 🤖 RAG pipelines, clustering & sentiment analysis, computer vision  
+- 📊 ETL pipelines, time-series telemetry, sensor data processing
+
+### Outside of work
+- Bouldering, movies, video games, and ping pong.
+
+## Stats
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DetimZhao&theme=xcode&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DetimZhao&theme=tokyonight&hide_border=true" />
+</p>
