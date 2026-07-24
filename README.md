@@ -16,6 +16,8 @@ I'm interested in **systems**, **AI/ML**, and **data engineering**.
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DetimZhao&theme=xcode&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DetimZhao&theme=xcode&hide_border=true" width="100%" />
+  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DetimZhao&theme=tokyonight&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/DetimZhao/DetimZhao/main/profile-3d-contrib/profile-night-view.svg" />
 </p>
