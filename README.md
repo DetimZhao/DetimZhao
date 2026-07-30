@@ -1,4 +1,4 @@
-# Hi, I'm [Detim](https://detimzhao.github.io/website/) 😁
+# Hi, I'm [Detim](https://detimzhao.com) 😁
 
 Software engineer. Currently open to full-time roles.
 
