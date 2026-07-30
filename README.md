@@ -11,7 +11,7 @@ I'm interested in **systems**, **AI/ML**, and **data engineering**.
 - 📊 ETL pipelines, time-series telemetry, sensor data processing
 
 ### Outside of work
-- Bouldering, movies, video games, and ping pong.
+- Movies, video games, bouldering, ping pong, and custom keyboards!
 
 ## Stats
 
